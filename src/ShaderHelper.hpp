@@ -10,6 +10,7 @@
 
 #include <stdio.h>
 #include "cinder/gl/GlslProg.h"
+#include "cinder/app/App.h"
 
 using namespace ci;
 using namespace ci::app;
